@@ -1,4 +1,4 @@
-Hi everyone. This is my firewall project. I do this stuffs for fun. Thanks for using it :) .
+Hi everyone. This is my firewall project. I do these stuffs for fun. Thanks for using it :) .
 
 How to use it:
 
